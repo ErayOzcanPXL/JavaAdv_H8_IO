@@ -2,6 +2,8 @@ package be.pxl.ja;
 
 public class Demo01SystemProperties {
 
+    //file:///usr/share/doc/java-openjdk/api/java.base/java/lang/System.html
+
 	public static final String SEPARATOR = System.getProperty("file.separator");
 
 	public static void main(String[] args) {
